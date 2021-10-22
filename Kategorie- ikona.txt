@@ -1,0 +1,22 @@
+1. AGD i RTV- tv.svg
+2. Art.Spożywcze- shop.svg
+3. Biżuteria i zegarki- watch.svg
+4. Budowa i remont- tools.svg
+5. Dla dzieci- kid.svg
+6. Dla firm- company.svg
+7. Dom i wnętrze- house.svg
+8. Finanse i ubezpieczenia- bank.svg
+9. Fotografia- camera.svg
+10. Gastronomia- egg.svg
+11. Hobby- bicycle.svg
+12. Instytucje publiczne- case.svg
+13. Komputery i akcesoria- cpu.svg
+14. Kultura, sztuka, rozrywka- people.svg
+15. Moda- fashion.svg
+16. Motoryzacja- car.svg
+17. Nieruchomości- building.svg
+18. Przemysł, rolnictwo i ochrona środowiska- tree.svg
+19. Sport, turystyka i transport- truck.svg
+20. Usługi- bucket.svg
+21. Zdrowie i uroda- heart.svg
+22. Zwierzęt- cat.svg
